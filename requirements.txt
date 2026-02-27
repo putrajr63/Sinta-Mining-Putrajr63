@@ -1,0 +1,3 @@
+sinta-parser/
+  app.py
+  requirements.txt
